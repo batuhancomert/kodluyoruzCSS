@@ -1,0 +1,39 @@
+
+/* Clases */
+.title {
+    color: rgb(146, 78, 22);
+    font-size: 40px;
+    
+}
+.conteiner {
+    color: rgb(168, 20, 20);
+    text-align:center;
+}
+.homepage-text {
+    font-size: 22px;
+}
+
+.list-text {
+    color: black;
+    text-align:center;
+    
+}
+
+
+/* Function */
+a {
+    color: rgb(204, 201, 10);
+}
+h2 {
+    color: purple;
+}
+
+body {
+    background-color: slateblue;
+    color: white;
+    font-family: sans-serif;
+}
+
+
+
+
